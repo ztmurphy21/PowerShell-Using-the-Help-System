@@ -1,0 +1,1 @@
+﻿(get-command get-eventlog | select -ExpandProperty parameters).computername.aliases
